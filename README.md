@@ -1,2 +1,2 @@
-# Top Leve Domain for Sale
-<https://tld.moe>
+# Top Level Domain for Sale
+<https://www.tld.moe>
