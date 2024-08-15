@@ -1,2 +1,2 @@
-# Top Level Domain for Sale
+# 出售顶级域名
 <https://www.tld.moe>
