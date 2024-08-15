@@ -1,0 +1,4 @@
+// body {background-image:url('kxg.svg');background-repeat:repeat;}
+
+//body {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('kxg.svg') no-repeat 0% 20%/ cover;}
+body {background: linear-gradient(rgba(240,0,86,0.5), rgba(23,124,176,0.5)), url('zan.svg') repeat 10% 20%;}
